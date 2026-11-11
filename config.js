@@ -16,7 +16,7 @@ window.CHIEF_CONFIG = {
   // Make up a long random topic name for live updates (https://ntfy.sh).
   // Letters, numbers, and dashes. Anyone who knows it can post to it.
   // Do not keep the placeholder, and do not use a short or famous name.
-  ntfyTopic: "YOUR_NTFY_TOPIC",
+  ntfyTopic: "chief-64f960d8186142e9fd3f734c",
 
   // Leave this unless you run your own ntfy server.
   ntfyServer: "https://ntfy.sh",
